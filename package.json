@@ -1,0 +1,27 @@
+{
+  "name": "ceph-s3",
+  "version": "1.0.0",
+  "description": "Knox wrapper with logic to simply pass set of users via config file and be able to work with your custom internal S3 compatible API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AVVS/ceph-s3.git"
+  },
+  "keywords": [
+    "ceph",
+    "s3",
+    "knox",
+    "s3-compatible",
+    "aws-s3",
+    "aws"
+  ],
+  "author": "Vitaly Aminev <v@aminev.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AVVS/ceph-s3/issues"
+  },
+  "homepage": "https://github.com/AVVS/ceph-s3"
+}
