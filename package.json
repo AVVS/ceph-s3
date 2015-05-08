@@ -1,6 +1,6 @@
 {
   "name": "ceph-s3",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Knox wrapper with logic to simply pass set of users via config file and be able to work with your custom internal S3 compatible API",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,7 @@
   "homepage": "https://github.com/AVVS/ceph-s3",
   "dependencies": {
     "knox": "^0.9.2",
-    "lodash": "^3.6.0"
+    "lodash": "^3.6.0",
+    "neo-async": "^1.0.1"
   }
 }
