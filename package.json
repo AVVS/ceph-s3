@@ -1,6 +1,6 @@
 {
   "name": "ceph-s3",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Knox wrapper with logic to simply pass set of users via config file and be able to work with your custom internal S3 compatible API",
   "main": "index.js",
   "scripts": {
