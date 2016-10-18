@@ -1,0 +1,6 @@
+version: v1.5.0
+ignore: {}
+patch:
+  'npm:ms:20151024':
+    - knox > debug > ms:
+        patched: '2016-10-18T11:18:04.492Z'
